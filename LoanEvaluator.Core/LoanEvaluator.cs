@@ -5,8 +5,8 @@ public class LoanEvaluator
     public static string GetLoanEligibility(int income, bool hasJob, int creditScore, int dependents, bool ownsHouse)
     {
         if (income < 2000) return "Not Eligible";
-        if (hasJob) return EvaluateEmployed(creditScore, dependents, ownsHouse);
-        return EvaluateUnemployed(creditScore, income, dependents, ownsHouse);
+        if (hasJob) return RiskEvaluationHelpers.EvaluateEmployed(creditScore, dependents, ownsHouse);
+        return RiskEvaluationHelpers.EvaluateUnemployed(creditScore, income, dependents, ownsHouse);
     }
 
     private static string EvaluateEmployed(int creditScore, int dependents, bool ownsHouse)
