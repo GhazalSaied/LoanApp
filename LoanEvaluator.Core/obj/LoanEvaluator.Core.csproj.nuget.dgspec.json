@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj": {}
+    "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj": {
+    "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj",
+        "projectUniqueName": "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj",
         "projectName": "LoanEvaluator.Core",
-        "projectPath": "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj",
+        "projectPath": "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj",
         "packagesPath": "C:\\Users\\happy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\obj\\",
+        "outputPath": "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\happy\\AppData\\Roaming\\NuGet\\NuGet.Config"

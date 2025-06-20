@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NBYVhswSGpE=",
+  "dgSpecHash": "FAbkv8iMmd0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Tests\\LoanEvaluator.Tests.csproj",
+  "projectFilePath": "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Tests\\LoanEvaluator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\happy\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\happy\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

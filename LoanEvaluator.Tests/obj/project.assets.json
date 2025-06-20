@@ -983,8 +983,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj": {
-              "projectPath": "C:\\Users\\happy\\Desktop\\loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj"
+            "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj": {
+              "projectPath": "C:\\Users\\happy\\Desktop\\Loan\\LoanEvaluator.Core\\LoanEvaluator.Core.csproj"
             }
           }
         }
